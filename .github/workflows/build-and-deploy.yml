@@ -9,7 +9,7 @@ on:
     branches:
       - main
 env:
-  AZURE_WEBAPP_NAME: time-service
+  AZURE_WEBAPP_NAME: time-service1
   AZURE_WEBAPP_PACKAGE_PATH: "./publish"
   DOTNET_VERSION: "9.x"
   SOLUTION_PATH: "Time.Api.sln"
